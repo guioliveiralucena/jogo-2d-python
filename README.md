@@ -1,7 +1,7 @@
 
 # Jogo 2D
 
-Descrição breve do seu projeto Pytho.
+Descrição breve do seu projeto Python.
 
 ## Requisitos
 
